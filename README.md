@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the project
 ```
-git clone https://github.com/RWUBAKWANAYO/motorbike_booking_frontend
+git clone https://github.com/Bria222/Motorbike-Booking-capstone.git
 cd motorbike_booking_frontend
 ```
 
