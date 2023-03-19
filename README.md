@@ -6,7 +6,7 @@
 
 ### Back-End Repository
 
-[Motorbike Booking Back-end](https://github.com/RWUBAKWANAYO/motorbike_booking_backend)
+[Motorbike Booking Back-end](https://github.com/Bria222/Motorbike-Booking-capstone-backend.git)
 
 ### Kanban Board
 [Kanban Board](https://github.com/RWUBAKWANAYO/motorbike_booking_frontend/projects/1)
